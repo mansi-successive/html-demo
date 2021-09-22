@@ -83,9 +83,9 @@
 .section2 ul{
 
 list-style: none;
-display: flex;
+
 }
-.section2 li{
+.section2 li.slideitem{
     width: 33.3%;
     height: 300px;
     background-color: whitesmoke;
