@@ -155,11 +155,30 @@ line-height: 40px;
 .inner-para{
     font-size: 12px;
 }
-.text_slide_ques{
 
-}
 .text_slide_item{
     font-size: 14px;
     line-height: 20px;
 
+}
+footer.parent{
+    display: flex;
+    padding: 0 80px;
+}
+.coloum{
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+}
+.image{
+    width: 50%;
+    
+}
+
+.margine-bottom{
+    margin-bottom: 20px;
+}
+.content-inner{
+    width: 50%;
+    padding: 0 20px;
 }
